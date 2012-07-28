@@ -37,7 +37,8 @@ write in Traditional Chinese.
 Types of Chinese input methods
 ==============================
 
-There are two big classes of Chinese input methods:
+There are two big classes of Chinese input methods. Each one will be detailed
+in the next two sections.
 
 IM based on the sounds of words
 -------------------------------
@@ -46,8 +47,9 @@ A user of those will type the romanization of the Chinese character, i.e how a
 word in the Latin alphabet could be written to produce the sound of that
 character.
 
-For example, 我 ("I") is pronounced something like "wo". So a Pinyin user will
-type those two characters, "w" then "o", and one of the suggestions will be 我.
+For example, 我 (the pronoun "I" or "me") is pronounced something like "wo".
+So a Pinyin user will type those two characters, "w" then "o", and one of the
+suggestions will be 我.
 
 Examples of these include Pinyin and Bopomofo.
 
@@ -90,8 +92,9 @@ Most used Chinese input methods
 ===============================
 
 .. note::
-    This document was written by people in Hong Kong. If we made any mistake
-    for the other regions using Chinese input methods, please let us know.
+    This document was written and reviewed primarily by people in Hong Kong.
+    If we made any mistake for the other regions using Chinese input methods,
+    please :ref:`let us know <authors>`.
 
 The most used Chinese input methods are the following:
 
@@ -154,11 +157,11 @@ Implementations on most popular OSes
 Windows
 *******
 
-Windows provides both Cangjie and Quick, both in version 3.
+Microsoft Windows provides both Cangjie and Quick, both in version 3.
 
 .. note::
-    Windows is used by the virtually everybody in Hong Kong, both at home, at
-    school and at work.
+    Microsoft Windows is used by virtually everybody in Hong Kong, both at
+    home, at school and at work.
 
 Since Windows 7, it offers to optionally enable the results of respective
 version 5. But that is **in addition** to the results of version 3. This
@@ -176,11 +179,12 @@ Cangjie 3 as they are used to.
 Quick users tend to not bother. This is because, given the design of Quick,
 very few things changed between versions 3 and 4.
 
-GNOME
-*****
+GNOME 3
+*******
 
 .. note::
-    This is pretty much a work in progress...
+    This is pretty much a work in progress at the moment, hopefully things
+    should land in GNOME 3.6.
 
 GNOME uses IBus as its Input Method Framework.
 
@@ -193,7 +197,7 @@ For both Cangjie and Quick, versions 3 and 5 are available.
     Example of word.
 
 IBus Table also provides what it calls Cangjie "Big", which is the combination
-of both versions 3 and 5. For example, one can get the word 
+of both versions 3 and 5. For example, one can get the word XXX...
 
 For Quick, IBus Table also provides Quick "Classic", which is completely
 obsolete these days.
