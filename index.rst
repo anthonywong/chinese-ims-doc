@@ -256,3 +256,24 @@ In Hong Kong, some groups are showing tremendous results with Stroke 5, giving
 access to electronic devices and the Internet to people who traditionally
 couldn't input their own language on a keyboard before.
 
+.. _authors:
+
+Authors
+=======
+
+This document was written by Mathieu Bridon (bochecha). You can contact me
+`by email <mailto:bochecha@fedoraproject.org>`_.
+
+I have to thank Wan Leung Wong for his patience and the time he took to
+explain all these things to me. This document wouldn't exist without him.
+
+.. todo::
+    Get this thing proof-read by some people in the HK community.
+
+This document is distributed under the Creative Commons Attribution
+Share-Alike 3.0 Unported license (`CC-By-SA`_).
+
+.. Links
+   =====
+
+.. _CC-By-SA: http://creativecommons.org/licenses/by-sa/3.0/
