@@ -219,6 +219,17 @@ of both versions 3 and 5. For example, one can get the word XXX...
 For Quick, IBus Table also provides Quick "Classic", which is completely
 obsolete these days.
 
+.. todo::
+    Talk about the filter for the
+    :ref:`multiple languages <cangjie-quick-languages>`.
+
+.. IBus has a filter (called "Chinese Mode"):
+    - 0 => only candidates in Simplified Chinese
+    - 1 => only candidates in Traditional Chinese
+    - 2 => everything, but Simplified Chinese first
+    - 3 => everything, but Traditional Chinese first
+    - 4 => everything
+
 .. _stroke5:
 
 Accessibility: Stroke 5
@@ -239,14 +250,3 @@ In Hong Kong, some groups are showing tremendous results with Stroke 5, giving
 access to electronic devices and the Internet to people who traditionally
 couldn't input their own language on a keyboard before.
 
-================================================================================
-
-Languages:
-Both designed to input Traditional Chinese, Simplified Chinese and Japanese.
-
-IBus has a filter (called "Chinese Mode"):
-- 0 => only candidates in Simplified Chinese
-- 1 => only candidates in Traditional Chinese
-- 2 => everything, but Simplified Chinese first
-- 3 => everything, but Traditional Chinese first
-- 4 => everything
