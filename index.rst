@@ -155,6 +155,8 @@ Schools teach Cangjie :ref:`version 3 <versions>`. This has a lot to do with
 inertia: Cangjie 3 is the default on :ref:`Microsoft Windows <windows>`, and
 the latter in turn defaults to version 3 because it's what is taught at school.
 
+.. _used:
+
 What people use
 ---------------
 
@@ -181,8 +183,8 @@ Windows
 Microsoft Windows provides both Cangjie and Quick, both in :ref:`version 3 <versions>`.
 
 .. note::
-    Microsoft Windows is used by virtually everybody in Hong Kong, both at
-    home, at school and at work.
+    Microsoft Windows is used by virtually everybody in Hong Kong, both
+    :ref:`at home, at school and at work <used>`.
 
 Since Windows 7, it offers to optionally enable the results of respective
 version 5. But that is **in addition** to the results of version 3. This
