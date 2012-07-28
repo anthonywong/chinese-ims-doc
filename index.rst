@@ -125,7 +125,7 @@ Cangjie and Quick
 -----------------
 
 Cangjie is a very classic :ref:`stroke-based input method <stroke-based>`, as
-explained above. Every word is represented by a combination of 4 keys.
+explained above. Every word is represented by a combination of up to 5 keys.
 
 .. _quick:
 
