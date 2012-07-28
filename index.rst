@@ -209,7 +209,7 @@ GNOME 3
     This is pretty much a work in progress at the moment, hopefully things
     should land in GNOME 3.6.
 
-GNOME uses IBus as its Input Method Framework.
+`GNOME`_ uses `IBus`_ as its Input Method Framework.
 
 IBus provides implementations of :ref:`Cangjie, Quick <cangjie-quick>` and
 :ref:`Stroke 5 <stroke5>` through IBus Table.
@@ -276,4 +276,6 @@ Share-Alike 3.0 Unported license (`CC-By-SA`_).
 .. Links
    =====
 
+.. _GNOME: https://www.gnome.org
+.. _IBus: http://code.google.com/p/ibus/
 .. _CC-By-SA: http://creativecommons.org/licenses/by-sa/3.0/
