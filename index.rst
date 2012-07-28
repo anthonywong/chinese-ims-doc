@@ -256,16 +256,21 @@ of both versions 3 and 5. For example, one can get the word XXX...
 For Quick, IBus Table also provides Quick "Classic", which is completely
 obsolete these days.
 
-.. todo::
-    Talk about the filter for the
-    :ref:`multiple languages <cangjie-quick-languages>`.
+Since Cangjie and Quick allow inputting characters in
+:ref:`3 different languages <cangjie-quick-languages>`, IBus Table has a filter
+(which it calls by the slightly misleading name "Chinese Mode") that the user
+can set at run time to control for which language(s) the user will get
+suggestions:
 
-.. IBus has a filter (called "Chinese Mode"):
-    - 0 => only candidates in Simplified Chinese
-    - 1 => only candidates in Traditional Chinese
-    - 2 => everything, but Simplified Chinese first
-    - 3 => everything, but Traditional Chinese first
-    - 4 => everything
+* if set to "0", only characters in Simplified Chinese will be suggested,
+* if set to "1", only characters in Traditional Chinese will be suggested
+  (this is obviously the best choice for Hong Kong users),
+* if set to "2", characters in all 3 languages will be suggested, but
+  Simplified Chinese characters will appear first,
+* if set to "3", characters in all 3 languages will be suggested, but
+  Traditional Chinese characters will appear first,
+* if set to "4", characters in all 3 languages will be suggested (the order in
+  this case is unclear)
 
 .. _stroke5:
 
