@@ -19,10 +19,7 @@ I started it because I wanted to help `GNOME`_ developers get
 a better understanding of the needs of the :ref:`Hong Kong <hong-kong>`
 community while IBus was being integrated to GNOME 3.6.
 
-.. todo::
-
-    Cross-reference sections, add anchors for each section for external
-    referencing.
+.. _chinese-languages:
 
 Written Chinese languages
 =========================
@@ -40,6 +37,8 @@ Types of Chinese input methods
 There are two big classes of Chinese input methods. Each one will be detailed
 in the next two sections.
 
+.. _sound-based:
+
 IM based on the sounds of words
 -------------------------------
 
@@ -52,6 +51,8 @@ So a Pinyin user will type those two characters, "w" then "o", and one of the
 suggestions will be 我.
 
 Examples of these include Pinyin and Bopomofo.
+
+.. _stroke-based:
 
 IM based on the strokes necessary to write a word
 -------------------------------------------------
@@ -110,8 +111,12 @@ The most used Chinese input methods are the following:
   everywhere people write on a piece of paper, or on a touch screen, to input
   any Chinese language.
 
+.. _hong-kong:
+
 The situation in Hong Kong
 ==========================
+
+.. _cangjie-quick:
 
 Cangjie and Quick
 -----------------
@@ -119,17 +124,28 @@ Cangjie and Quick
 .. todo::
     Write it up.
 
+.. _quick:
+
+.. todo::
+    Write it up.
+
+.. _cangjie-quick-languages:
+
 Multiple languages
 ------------------
 
 .. todo::
     Write it up.
 
+.. _versions:
+
 Different versions
 ------------------
 
 .. todo::
     Write it up.
+
+.. _school:
 
 Schools and education
 ---------------------
@@ -153,6 +169,8 @@ choice, with the rest using version 5.
 
 Implementations on most popular OSes
 ------------------------------------
+
+.. _windows:
 
 Windows
 *******
@@ -196,11 +214,15 @@ For both Cangjie and Quick, versions 3 and 5 are available.
 .. todo::
     Example of word.
 
+.. _cangjie-big:
+
 IBus Table also provides what it calls Cangjie "Big", which is the combination
 of both versions 3 and 5. For example, one can get the word XXX...
 
 For Quick, IBus Table also provides Quick "Classic", which is completely
 obsolete these days.
+
+.. _stroke5:
 
 Accessibility: Stroke 5
 -----------------------
