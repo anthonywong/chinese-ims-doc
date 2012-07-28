@@ -202,6 +202,27 @@ In any case, the overwhelming majority uses :ref:`version 3 <versions>` of
 their input method of choice, with the rest mostly using
 :ref:`version 5 <versions>`.
 
+.. _stroke5:
+
+Stroke 5 for a11y
+-----------------
+
+Stroke 5 is an input method which was created for the elderly and people with
+reduced hand mobility.
+
+It is :ref:`stroke-based <stroke-based>`, just like
+:ref:`Cangjie and Quick <cangjie-quick>`.
+
+However, to allow typing with few fingers and with relatively few movements,
+only 5 keys are used:
+
+.. todo::
+    Give some more details...
+
+In Hong Kong, some groups are showing tremendous results with Stroke 5, giving
+access to electronic devices and the Internet to people who traditionally
+couldn't input their own language on a keyboard before.
+
 .. _implementations:
 
 Implementations on some popular OSes
@@ -274,27 +295,6 @@ suggestions:
   Traditional Chinese characters will appear first,
 * if set to "4", characters in all 3 languages will be suggested (the order in
   this case is unclear)
-
-.. _stroke5:
-
-Accessibility: Stroke 5
------------------------
-
-Stroke 5 is an input method which was created for the elderly and people with
-reduced hand mobility.
-
-It is :ref:`stroke-based <stroke-based>`, just like
-:ref:`Cangjie and Quick <cangjie-quick>`.
-
-However, to allow typing with few fingers and with relatively few movements,
-only 5 keys are used:
-
-.. todo::
-    Give some more details...
-
-In Hong Kong, some groups are showing tremendous results with Stroke 5, giving
-access to electronic devices and the Internet to people who traditionally
-couldn't input their own language on a keyboard before.
 
 .. _authors:
 
