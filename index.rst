@@ -202,7 +202,9 @@ In any case, the overwhelming majority uses :ref:`version 3 <versions>` of
 their input method of choice, with the rest mostly using
 :ref:`version 5 <versions>`.
 
-Implementations on most popular OSes
+.. _implementations:
+
+Implementations on some popular OSes
 ------------------------------------
 
 .. _windows:
