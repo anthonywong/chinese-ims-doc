@@ -18,10 +18,6 @@ Written Chinese languages
 There are mostly two written Chinese languages: Simplified and Traditional
 Chinese.
 
-.. note::
-    If we forgot important other **written** Chinese languages, please let us
-    know.
-
 Mainland China writes in Simplified Chinese, while Hong Kong, Macau and Taiwan
 write in Traditional Chinese.
 
