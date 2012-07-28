@@ -122,29 +122,58 @@ The situation in Hong Kong
 Cangjie and Quick
 -----------------
 
-.. todo::
-    Write it up.
+Cangjie is a very classic :ref:`stroke-based input method <stroke-based>`, as
+explained above. Every word is represented by a combination of 4 keys.
 
 .. _quick:
 
-.. todo::
-    Write it up.
+Quick is based on Cangjie, with a simple change to make it easier and reduce
+the number of keys needed before getting suggestions to only 2: the user only
+types the first and last key, corresponding to the first and last stroke in
+Cangjie.
 
 .. _cangjie-quick-languages:
 
 Multiple languages
 ------------------
 
-.. todo::
-    Write it up.
+Cangjie (and Quick as it is :ref:`based on Cangjie <quick>`) were designed to
+input the characters of 3 different languages:
+
+* Traditional Chinese
+* Simplified Chinese
+* Japanese
+
+Its design is clever enough to limit "collisions" (i.e a given combination of
+4 keys returning candidates in more than one language) to a minimum, and for
+rarely used characters or slow to type combinations.
+
+As such, most of the time, a Cangjie user will only be presented with
+candidates in the language he is expecting based on his input. (unless he is
+not using the :ref:`version <versions>` he thinks he is)
 
 .. _versions:
 
 Different versions
 ------------------
 
+The Cangjie input method (not its :ref:`implementation <implementations>` in a
+given Operating System) was first published in 1976.
+
+Since then, a few different versions have been published, each slightly
+incompatible with each other.
+
 .. todo::
-    Write it up.
+    Get an example of a character and how to type it in Cangjie 3, 4 and 5.
+
+For example, the word "XXX" (YYY) will be inputted differently in each version:
+
+* "ZZZZ" in Cangjie 3
+* "ZZZZ" in Cangjie 4
+* "ZZZZ" in Cangjie 5
+
+These incompatibilities mean that users will have to spend some time learning
+a new version, almost as if it were a different input method.
 
 .. _school:
 
