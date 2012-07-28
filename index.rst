@@ -42,24 +42,37 @@ Examples of these include Pinyin and Bopomofo.
 IM based on the strokes necessary to write a word
 -------------------------------------------------
 
-.. todo::
-    Get someone to draw me a simple word, with corresponding keys.
-
 These are based on the strokes necessary to write a character.
 
-For example, with a pen and paper, to write XXX, one needs to first write
-XXX, then XXX, and finally XXX. Much like when writing a "p", one would start
-by "drawing" the vertical bar, then add the round part.
+For example, with a pen and paper, to write 三 (the number 3), one needs to:
 
-In an stroke-based input method, each type of stroke (vertical, horizontal,
+* first write the first stroke: |three-first|,
+* then add the second one: |three-second|,
+* and finish with the last stroke: |three-third|
+
+This is much like when writing a "p", one would start by "drawing" the
+vertical bar, then add the round part.
+
+In a stroke-based input method, each type of stroke (vertical, horizontal,
 curved, ...) is associated to a character of the latin alphabet on the
 keyboard.
 
 And then one has to type **in the right order** the series of characters
 corresponding to the series of strokes necessary to write the full character.
 
+In the above (trivial) example of the number 3, the horizontal stroke
+corresponds to the "m" key in the Cangjie (version 3) input method. So to
+input the number 3, the user would have to press three times the "m" key.
+
 Cangjie, Quick or hand-writing (either with pen and paper or with a touch
 screen device) are all examples of stroke-based input methods.
+
+.. |three-first| image:: _static/three-first.png
+   :align: bottom
+.. |three-second| image:: _static/three-second.png
+   :align: bottom
+.. |three-third| image:: _static/three-third.png
+   :align: bottom
 
 Most used Chinese input methods
 ===============================
