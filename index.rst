@@ -170,7 +170,8 @@ However, many people stick to Cangjie because, once they have made the effort
 to learn it properly, it allows them to type much faster.
 
 In any case, the overwhelming majority uses :ref:`version 3 <versions>` of
-their input method of choice, with the rest using :ref:`version 5 <versions>`.
+their input method of choice, with the rest mostly using
+:ref:`version 5 <versions>`.
 
 Implementations on most popular OSes
 ------------------------------------
