@@ -37,10 +37,7 @@ character.
 For example, 我 ("I") is pronounced something like "wo". So a Pinyin user will
 type those two characters, "w" then "o", and one of the suggestions will be 我.
 
-.. todo::
-    Get other examples of these.
-
-Examples of these include Pinyin and XXX.
+Examples of these include Pinyin and Bopomofo.
 
 IM based on the strokes necessary to write a word
 -------------------------------------------------
