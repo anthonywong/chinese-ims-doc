@@ -211,9 +211,6 @@ IBus Table.
 
 For both Cangjie and Quick, versions 3 and 5 are available.
 
-.. todo::
-    Example of word.
-
 .. _cangjie-big:
 
 IBus Table also provides what it calls Cangjie "Big", which is the combination
