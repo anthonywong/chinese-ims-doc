@@ -1,7 +1,5 @@
 .. Chinese Input Methods master file, created by sphinx-quickstart on
    Fri Jul 27 22:38:40 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 =====================
 Chinese Input Methods
