@@ -250,6 +250,9 @@ For both Cangjie and Quick, :ref:`versions 3 and 5 <versions>` are available.
 
 .. _cangjie-big:
 
+.. todo::
+    Reuse the example from the :ref:`versions section <versions>`.
+
 IBus Table also provides what it calls Cangjie "Big", which is the combination
 of both versions 3 and 5. For example, one can get the word XXX...
 
