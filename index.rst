@@ -101,18 +101,16 @@ The most used Chinese input methods are the following:
 
 * Pinyin is a :ref:`sound-based input method <sound-based>`. It is used mostly
   in Mainland China, to input :ref:`Simplified Chinese <chinese-languages>`.
-* Bopomofo is a :ref:`sound-based input method <sound-based>`. It is used
+* Bopomofo is a sound-based input method. It is used
   mostly in Taiwan, to input :ref:`Traditional Chinese <chinese-languages>`.
 * Cangjie is a :ref:`stroke-based input method <stroke-based>`. It is used
-  mostly in :ref:`Hong Kong <hong-kong>`, to input
-  :ref:`Traditional Chinese <chinese-languages>`.
-* Quick is a :ref:`stroke-based input method <stroke-based>`. It is used
-  mostly in Hong Kong, to input :ref:`Traditional Chinese <chinese-languages>`.
+  mostly in :ref:`Hong Kong <hong-kong>`, to input Traditional Chinese.
+* Quick is a stroke-based input method. It is used mostly in Hong Kong, to
+  input Traditional Chinese.
   Note that :ref:`Quick is based on Cangjie <quick>`.
-* Hand-writing is effectively a
-  :ref:`stroke-based input method <stroke-based>`. It is used everywhere
-  people write on a piece of paper, or on a touch screen, to input any
-  :ref:`Chinese language <chinese-languages>`.
+* Hand-writing is effectively a stroke-based input method. It is used
+  everywhere people write on a piece of paper, or on a touch screen, to input
+  any :ref:`Chinese language <chinese-languages>`.
 
 .. _hong-kong:
 
