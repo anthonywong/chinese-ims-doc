@@ -27,8 +27,8 @@ Written Chinese languages
 There are mostly two written Chinese languages: Simplified and Traditional
 Chinese.
 
-Mainland China writes in Simplified Chinese, while Hong Kong, Macau and Taiwan
-write in Traditional Chinese.
+Mainland China writes in Simplified Chinese, while
+:ref:`Hong Kong <hong-kong>`, Macau and Taiwan write in Traditional Chinese.
 
 
 Types of Chinese input methods
@@ -99,17 +99,20 @@ Most used Chinese input methods
 
 The most used Chinese input methods are the following:
 
-* Pinyin is a sound-based input method. It is used mostly in Mainland China,
-  to input Simplified Chinese.
-* Bopomofo is a XXX-based input method. It is used mostly in Taiwan, to input
-  Traditional Chinese.
-* Cangjie is a stroke-based input method. It is used mostly in Hong Kong, to
-  input Traditional Chinese.
-* Quick is a stroke-based input method. It is used mostly in Hong Kong, to
-  input Traditional Chinese. Note that Quick is based on Cangjie.
-* Hand-writing can be seen as a stroke-based input method. It is used
-  everywhere people write on a piece of paper, or on a touch screen, to input
-  any Chinese language.
+* Pinyin is a :ref:`sound-based input method <sound-based>`. It is used mostly
+  in Mainland China, to input :ref:`Simplified Chinese <chinese-languages>`.
+* Bopomofo is a :ref:`sound-based input method <sound-based>`. It is used
+  mostly in Taiwan, to input :ref:`Traditional Chinese <chinese-languages>`.
+* Cangjie is a :ref:`stroke-based input method <stroke-based>`. It is used
+  mostly in :ref:`Hong Kong <hong-kong>`, to input
+  :ref:`Traditional Chinese <chinese-languages>`.
+* Quick is a :ref:`stroke-based input method <stroke-based>`. It is used
+  mostly in Hong Kong, to input :ref:`Traditional Chinese <chinese-languages>`.
+  Note that :ref:`Quick is based on Cangjie <quick>`.
+* Hand-writing is effectively a
+  :ref:`stroke-based input method <stroke-based>`. It is used everywhere
+  people write on a piece of paper, or on a touch screen, to input any
+  :ref:`Chinese language <chinese-languages>`.
 
 .. _hong-kong:
 
@@ -150,13 +153,15 @@ Different versions
 Schools and education
 ---------------------
 
-Schools teach Cangjie version 3. This has a lot to do with inertia: Cangjie 3
-is the default on Windows.
+Schools teach Cangjie :ref:`version 3 <versions>`. This has a lot to do with
+inertia: Cangjie 3 is the default on :ref:`Microsoft Windows <windows>`, and
+the latter in turn defaults to version 3 because it's what is taught at school.
 
 What people use
 ---------------
 
-After learning at school, most people will move from Cangjie to Quick.
+After learning :ref:`at school <school>`, most people will move from
+:ref:`Cangjie to Quick <cangjie-quick>`.
 
 This is because the former has a much steeper learning curve than the latter,
 which is much easier to use.
@@ -164,8 +169,8 @@ which is much easier to use.
 However, many people stick to Cangjie because, once they have made the effort
 to learn it properly, it allows them to type much faster.
 
-In any case, the overwhelming majority uses version 3 of their input method of
-choice, with the rest using version 5.
+In any case, the overwhelming majority uses :ref:`version 3 <versions>` of
+their input method of choice, with the rest using :ref:`version 5 <versions>`.
 
 Implementations on most popular OSes
 ------------------------------------
@@ -175,7 +180,7 @@ Implementations on most popular OSes
 Windows
 *******
 
-Microsoft Windows provides both Cangjie and Quick, both in version 3.
+Microsoft Windows provides both Cangjie and Quick, both in :ref:`version 3 <versions>`.
 
 .. note::
     Microsoft Windows is used by virtually everybody in Hong Kong, both at
@@ -183,19 +188,19 @@ Microsoft Windows provides both Cangjie and Quick, both in version 3.
 
 Since Windows 7, it offers to optionally enable the results of respective
 version 5. But that is **in addition** to the results of version 3. This
-option effectively enables what IBus calls "Cangjie Big".
+option effectively enables :ref:`what IBus calls "Cangjie Big" <cangjie-big>`.
 
 Mac OS X
 ********
 
-Mac OS X provides Cangjie and Quick, both in version 4.
+Mac OS X provides Cangjie and Quick, both in :ref:`version 4 <versions>`.
 
 Most Mac users of Cangjie in Hong Kong will install the Yahoo input method
 framework instead of using the default system one, as it allows them to use
 Cangjie 3 as they are used to.
 
 Quick users tend to not bother. This is because, given the design of Quick,
-very few things changed between versions 3 and 4.
+very few things changed between :ref:`versions 3 and 4 <versions>`.
 
 GNOME 3
 *******
@@ -206,10 +211,10 @@ GNOME 3
 
 GNOME uses IBus as its Input Method Framework.
 
-IBus provides implementations of Cangjie, Quick and Stroke 5 through
-IBus Table.
+IBus provides implementations of :ref:`Cangjie, Quick <cangjie-quick>` and
+:ref:`Stroke 5 <stroke5>` through IBus Table.
 
-For both Cangjie and Quick, versions 3 and 5 are available.
+For both Cangjie and Quick, :ref:`versions 3 and 5 <versions>` are available.
 
 .. _cangjie-big:
 
@@ -238,7 +243,8 @@ Accessibility: Stroke 5
 Stroke 5 is an input method which was created for the elderly and people with
 reduced hand mobility.
 
-It is stroke based, just like Cangjie and Quick.
+It is :ref:`stroke-based <stroke-based>`, just like
+:ref:`Cangjie and Quick <cangjie-quick>`.
 
 However, to allow typing with few fingers and with relatively few movements,
 only 5 keys are used:
