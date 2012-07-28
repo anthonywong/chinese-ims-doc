@@ -7,6 +7,18 @@
 Chinese Input Methods
 =====================
 
+This document aims to introduce to non-Chinese how Chinese Input Methods work.
+
+It can be a simple reference for developers of Operating Systems outside of
+China who want to enable Chinese users to input their own language.
+
+It is a work in progress and might be incomplete or contain some mistake. Feel
+free to :ref:`contact me <authors>` if you want to add/fix something.
+
+I started it because I wanted to help `GNOME`_ developers get
+a better understanding of the needs of the :ref:`Hong Kong <hong-kong>`
+community while IBus was being integrated to GNOME 3.6.
+
 .. todo::
 
     Cross-reference sections, add anchors for each section for external
