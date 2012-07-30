@@ -229,9 +229,13 @@ only 5 keys are used (from a US keyboard layout) :
 * "." for the "left-top to right-bottom" strokes (and punctuation marks)
 * "/" for the "top to bottom vertical" strokes
 
-So for example, to type a simple word like 三 (the number 3), which is
-composed of :ref:`three horizontal strokes <stroke-based>`, a user would type
-"mmm".
+So for example, to write the word 中 ("middle"), one must first write the leftmost
+vertical stroke, then the top horizontal line and the rightmost vertical line
+**as one stroke**, then the bottom horizontal stroke, and finally the long
+middle vertical stroke.
+
+As such, a user of the Stroke 5 input method would input the "/nm/" combination
+of keys.
 
 In Hong Kong, some groups are showing tremendous results with Stroke 5, giving
 access to electronic devices and the Internet to people who traditionally
