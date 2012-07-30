@@ -288,6 +288,9 @@ Since Cangjie and Quick allow inputting characters in
 can set at run time to control for which language(s) the user will get
 suggestions:
 
+.. todo::
+    Figure out whether this also applies to Stroke 5.
+
 * if set to "0", only characters in Simplified Chinese will be suggested,
 * if set to "1", only characters in Traditional Chinese will be suggested
   (this is obviously the best choice for Hong Kong users),
