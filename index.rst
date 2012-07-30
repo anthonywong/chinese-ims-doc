@@ -216,10 +216,17 @@ It is :ref:`stroke-based <stroke-based>`, just like
 :ref:`Cangjie and Quick <cangjie-quick>`.
 
 However, to allow typing with few fingers and with relatively few movements,
-only 5 keys are used:
+only 5 keys are used (from a US keyboard layout) :
 
-.. todo::
-    Give some more details...
+* "n" for the "curved" strokes
+* "m" for the "left to right horizontal" strokes
+* "," for the "right-to to left-bottom diagonal" strokes
+* "." for the "left-top to right-bottom" strokes (and punctuation marks)
+* "/" for the "top to bottom vertical" strokes
+
+So for example, to type a simple word like 三 (the number 3), which is
+composed of :ref:`three horizontal strokes <stroke-based>`, a user would type
+"mmm".
 
 In Hong Kong, some groups are showing tremendous results with Stroke 5, giving
 access to electronic devices and the Internet to people who traditionally
@@ -287,9 +294,6 @@ Since Cangjie and Quick allow inputting characters in
 (which it calls by the slightly misleading name "Chinese Mode") that the user
 can set at run time to control for which language(s) the user will get
 suggestions:
-
-.. todo::
-    Figure out whether this also applies to Stroke 5.
 
 * if set to "0", only characters in Simplified Chinese will be suggested,
 * if set to "1", only characters in Traditional Chinese will be suggested
