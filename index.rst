@@ -21,6 +21,11 @@ I started it because I wanted to help `GNOME`_ developers get
 a better understanding of the needs of the :ref:`Hong Kong <hong-kong>`
 community while IBus was being integrated to GNOME 3.6.
 
+Unfortunately, there are too few FOSS developers in China, and it is hard for
+non-Chinese to understand how to properly implement Chinese input methods
+without some minimum knowledge. Hopefully this document will help fill this
+gap. And who knows, that might even help get more Chinese FOSS developers. :)
+
 .. _chinese-languages:
 
 Written Chinese languages
