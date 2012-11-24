@@ -1,0 +1,10 @@
+This is a documentation about Chinese input methods.
+
+It is mostly targetted to non Chinese developers who would like to gain a
+better understanding about how Chinese people write in their native languages,
+in order to properly implement environments suitable for Chinese people.
+
+The built document is published at the following address:
+    http://bochecha.fedorapeople.org/chinese_ims/
+
+It is published under a CC-By-SA license.
