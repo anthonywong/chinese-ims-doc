@@ -329,9 +329,12 @@ explain all these things to me. This document wouldn't exist without him.
 This document is distributed under the Creative Commons Attribution
 Share-Alike 3.0 Unported license (`CC-By-SA`_).
 
+Sources are `available on GitHub`_.
+
 .. Links
    =====
 
 .. _GNOME: https://www.gnome.org
 .. _IBus: http://code.google.com/p/ibus/
 .. _CC-By-SA: http://creativecommons.org/licenses/by-sa/3.0/
+.. _available on GitHub: https://github.com/bochecha/chinese-ims-doc
