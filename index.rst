@@ -323,9 +323,6 @@ This document was written by Mathieu Bridon (bochecha). You can contact me
 I have to thank Wan Leung Wong for his patience and the time he took to
 explain all these things to me. This document wouldn't exist without him.
 
-.. todo::
-    Get this thing proof-read by some more people.
-
 This document is distributed under the Creative Commons Attribution
 Share-Alike 3.0 Unported license (`CC-By-SA`_).
 
