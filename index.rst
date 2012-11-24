@@ -152,8 +152,9 @@ input the characters of 3 different languages:
 * Japanese
 
 Its design is clever enough to limit "collisions" (i.e a given combination of
-4 keys returning candidates in more than one language) to a minimum, and for
-rarely used characters or slow to type combinations.
+4 keys returning candidates in more than one language) to a minimum. When
+collisions happen though, it will usually be limitted to rarely used
+characters or slow to type combinations.
 
 As such, most of the time, a Cangjie user will only be presented with
 candidates in the language he is expecting based on his input. (unless he is
